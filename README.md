@@ -1,4 +1,4 @@
-# 👋 Moustapha Gaye
+# 👋 Mohamadou Moustapha Gaye
 
 Methods & Systems Engineer  
 AI Applied to Industry  
